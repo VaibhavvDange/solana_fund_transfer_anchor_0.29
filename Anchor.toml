@@ -5,7 +5,7 @@ seeds = false
 skip-lint = false
 
 [programs.localnet]
-transfer_sol = "2QpQyZ2k4fZoNEGgi4suwbiEsQcBsGpnxWJgfxUxJ2z2"
+transfer_sol = "GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i"
 
 [registry]
 url = "https://api.apr.dev"

@@ -1,0 +1,37 @@
+Streaming transaction logs mentioning GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i. Confirmed commitment
+Transaction executed in slot 695:
+  Signature: 3v7SvFuYBLLAuCNss8spAdGjaDbUbaNtwCeJBLpGF5pLx1KsfDncaocGY9x3yUBWKoHTqtH7QbCPDjc6BV4jx2k7
+  Status: Ok
+  Log Messages:
+    Program GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i invoke [1]
+    Program log: Instruction: DepositLamports2
+    Program log: 🚀 ~ deposit_lamports method invoked
+    Program log: 🚀 ~ pubfndeposit_lamports ~ from_account: GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA
+    Program log: 🚀 ~ pubfndeposit_lamports ~ to_account: 6RzDMY6F51ZHBUbf5fobn8YqeXbU8yQdsfsj5xx8VQdr
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: 🚀 ~ pubfndeposit_lamports2 ~ depositor_length: 10
+    Program log: Array of depositor's list is Full !!
+    Program log: 🚀 ~ pubfndeposit_lamports2 ~ depositors_list: [GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA]
+    Program GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i consumed 150969 of 200000 compute units
+    Program GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i success
+Transaction executed in slot 696:
+  Signature: 3PBJpHddKNEiHcwAcW9dpvejQL4G1UA9uG9vKhKcGKFvEpbFCwxXmFsu7VZJWzPJoMnAceRbnxNqHU1tBqGStnyN
+  Status: Ok
+  Log Messages:
+    Program GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i invoke [1]
+    Program log: Instruction: WithdrawLamports2
+    Program log: Funds to be withdraw: 1000000000
+    Program log: 🚀 ~ withdraw_lamports method invoked
+    Program log: Balance in treasury: 1070490880
+    Program log: 🚀 ~ pubfnwithdraw_lamports ~ from_account: 6RzDMY6F51ZHBUbf5fobn8YqeXbU8yQdsfsj5xx8VQdr
+    Program log: 🚀 ~ pubfnwithdraw_lamports ~ to_account: GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA
+    Program log: 🚀 ~ pubfnwithdraw_lamports ~ pda_address: 6RzDMY6F51ZHBUbf5fobn8YqeXbU8yQdsfsj5xx8VQdr
+    Program log: pda_bump : 254
+    Program log: Executed!!
+    Program log: 🚀 ~ pubfnwithdraw_lamports2 ~ withdrawer_length: 10
+    Program log: Array of withdrawer list is Full !! 
+    Program log: 🚀 ~ pubfnwithdraw_lamports2 ~ withdrawer_list: [GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA, GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA]
+    Program log: 🚀 ~ pubfndeposit_lamports2 ~ ctx.accounts.treasury.withdrawer_pubkey[1] : GHbrYCdppDvkU4UfDZMMwwA812wcdUMB1UCrbCaDMMgA
+    Program GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i consumed 177599 of 200000 compute units
+    Program GkXjAM7x9QSkWaPZeNaVPp1csuneuLonAK1Kwxv8gN8i success
